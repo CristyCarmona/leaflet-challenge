@@ -1,0 +1,48 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+.legend {
+  padding: 10px;
+  font-family: Sanchez, serif;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 20px;
+  color: #555;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+.range1 {
+  background-color: #b7f34d;
+}
+
+.range2 {
+  background-color: #e1f34d;
+}
+
+.range3 {
+  background-color: #f3db4d;
+}
+
+.range4 {
+  background-color: #f3ba4d;
+}
+
+.range5 {
+  background-color: #f0a76b;
+}
+
+.range6 {
+  background-color: #f06b6b;
+}
+
+
