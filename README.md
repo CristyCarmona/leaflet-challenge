@@ -12,7 +12,7 @@ The earthquakes' data comes from a massive amount of information collected by th
 The tectonic plates information comes from a data set available in GitHub.
 
 ## Visualization
-
+![final_visualization](https://user-images.githubusercontent.com/64176733/92343461-abf62b00-f078-11ea-8418-4164fb5d672c.png)
 
 ## Libraries used: 
 Leaflet, D3.js, Mapbox 
