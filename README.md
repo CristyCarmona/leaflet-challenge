@@ -2,7 +2,7 @@
 
 
 ## Title:
-Tectonic plates and Earthquakes 
+Tectonic plates and Earthquakes Visualization
 
 ## Description:
 In this project, you will find an exciting visualization of earthquakes that have happened in the last seven days. Additionally, you'll able to see the distribution of the tectonic plates all over the world.
